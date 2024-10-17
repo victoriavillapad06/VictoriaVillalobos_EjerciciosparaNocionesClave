@@ -1,0 +1,129 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "_deps/fmt-build",
+					"jsonFile" : "directory-_deps.fmt-build-Debug-3459fb3e8eb4bb1485c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug/_deps/fmt-src",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VictoriaVillalobos_EjerciciosparaNocionesClave",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "FMT",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VictoriaVillalobos_EjerciciosparaNocionesClave::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VictoriaVillalobos_EjerciciosparaNocionesClave-Debug-f45abaed1f14d4663ed0.json",
+					"name" : "VictoriaVillalobos_EjerciciosparaNocionesClave",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VictoriaVillalobos_EjerciciosparaNocionesClave2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VictoriaVillalobos_EjerciciosparaNocionesClave2-Debug-f4e3e6d4b7439cb37469.json",
+					"name" : "VictoriaVillalobos_EjerciciosparaNocionesClave2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fmt::@976f4f0bee90b99ecdb6",
+					"jsonFile" : "target-fmt-Debug-a0a22e66c7e63a8647fe.json",
+					"name" : "fmt",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matematicas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matematicas-Debug-6cdf0a14656b62d85934.json",
+					"name" : "matematicas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matematicas2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matematicas2-Debug-894aa56e4703d5377b4d.json",
+					"name" : "matematicas2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug",
+		"source" : "C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
