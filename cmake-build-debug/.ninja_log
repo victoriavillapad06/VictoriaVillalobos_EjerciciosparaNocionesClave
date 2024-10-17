@@ -1,0 +1,21 @@
+# ninja log v6
+447	754	7507951248401770	VictoriaVillalobos_EjerciciosparaNocionesClave.exe	17e3ae18c79a9cd6
+20	93	7507951127301655	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir/proyecto_2/matematicas.cpp.obj	9de03344d32f0aa8
+9	446	7507951244027828	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir/proyecto_2/main2.cpp.obj	73a2d864ad8fa40e
+15	170	7507946113058331	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir/proyecto_2/nuevo.cpp.obj	b569558779a70692
+7	396	7508642117168559	build.ninja	863f2c2015f7acfd
+24	200	7507946113151687	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir/proyecto_2/funciones.cpp.obj	1b4f2b0a2071a334
+1176	1363	7507945596553258	VictoriaVillalobos_EjerciciosparaNocionesClave2.exe	c976bdda6389ab98
+56	982	7507945585353062	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave2.dir/parte_1_y_2/persona.cpp.obj	b3cf6ecdb4f715e8
+7	43	7507110810229050	clean	567f01a6bad3308b
+66	1159	7507945585454227	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave2.dir/parte_1_y_2/estudiante.cpp.obj	7f4fba2d7db722c4
+47	1176	7507945585262148	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave2.dir/parte_1_y_2/main.cpp.obj	691bcdebc6cc8f39
+8	2744	7508642117168559	build.ninja	863f2c2015f7acfd
+84	266	7508642121269942	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir/proyecto_2/nuevo.cpp.obj	57ea2d129efa13ef
+104	399	7508642121467426	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir/proyecto_2/funciones.cpp.obj	f2a9711e5dc8f7d3
+138	883	7508642121796338	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir/proyecto_2/matematicas.cpp.obj	1562f97dbf6046e8
+122	937	7508642121640481	CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir/proyecto_2/main2.cpp.obj	4488a158ddd0528d
+48	6764	7508642120906151	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	ecadfad348f8c097
+65	7260	7508642121073291	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	477d813fb791bbff
+7264	8322	7508642193058491	_deps/fmt-build/libfmtd.a	bfd7d2ab56e2c14
+8322	8889	7508642203647027	VictoriaVillalobos_EjerciciosparaNocionesClave.exe	53b3452d670c6e6

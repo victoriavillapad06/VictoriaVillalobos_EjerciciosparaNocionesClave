@@ -1,0 +1,9 @@
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave2.dir
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/CMakeFiles/VictoriaVillalobos_EjerciciosparaNocionesClave.dir
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/CMakeFiles/matematicas.dir
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/CMakeFiles/matematicas2.dir
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/victo/Documents/GitHub/VictoriaVillalobos_EjerciciosparaNocionesClave/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
