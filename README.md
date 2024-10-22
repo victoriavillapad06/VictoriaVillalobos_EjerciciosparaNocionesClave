@@ -221,6 +221,7 @@ Elección de un compilador
 Configurar CLion para usar GCC: Ve a "File > Settings > Build, Execution, Deployment > Toolchains". Haz clic en el signo más para agregar una nueva cadena de herramientas. Configura el compilador C y C++ para usar GCC. Haz clic en "OK" para guardar los cambios.
 Configurar CLion para usar MSVC: El proceso es similar al anterior, pero debes configurar el compilador C y C++ para usar MSVC en lugar de GCC. Ten en cuenta que MSVC solo está disponible en Windows.
 Comparar compiladores: Haz una copia de tu proyecto y configúralo para usar un compilador diferente. Observa si hay diferencias en el rendimiento o los errores al compilar y ejecutar tu programa.
+He comparado los dos compiladores y no he encontrado ningún cambio.
 Enlazador
 
 Biblioteca estándar de C++: Tu programa ya está utilizando la biblioteca estándar de C++ si estás utilizando std::cout, std::cin, std::endl, etc. El enlazador puede encontrar estas funciones porque las bibliotecas estándar de C++ se instalan con el compilador.
